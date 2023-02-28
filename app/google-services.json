@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923291820390",
+    "project_id": "project-advanted",
+    "storage_bucket": "project-advanted.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923291820390:android:0765c20cbe3fb3e01168a7",
+        "android_client_info": {
+          "package_name": "com.example.project_advanted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923291820390-kdltqsndk4jihihp3kb8ng8ptevlk2ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyYY3YJWjlkcinzBJBRaKgaabg9HIN_Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923291820390-kdltqsndk4jihihp3kb8ng8ptevlk2ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
